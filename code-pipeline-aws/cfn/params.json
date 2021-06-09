@@ -1,7 +1,7 @@
 [
     {
       "ParameterKey": "GitHubRepo",
-      "ParameterValue": "repo-name"
+      "ParameterValue": "code-pipeline-aws"
     },
     {
         "ParameterKey": "GitHubBranch",
