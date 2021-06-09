@@ -38,7 +38,7 @@ class Cloudformation(object):
                             'UPDATE_COMPLETE', 'UPDATE_ROLLBACK_IN_PROGRESS', 'UPDATE_ROLLBACK_FAILED',
                             'UPDATE_ROLLBACK_COMPLETE_CLEANUP_IN_PROGRESS', 'UPDATE_ROLLBACK_COMPLETE']
 
-    default_region = 'us-east-1'
+    default_region = 'us-east-3'
 
     def __init__(self, region=None):
         """
