@@ -1,0 +1,18 @@
+[
+    {
+      "ParameterKey": "GitHubRepo",
+      "ParameterValue": "repo-name"
+    },
+    {
+        "ParameterKey": "GitHubBranch",
+        "ParameterValue": "main"
+      },
+      {
+        "ParameterKey": "GitHubToken",
+        "ParameterValue": "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"
+      },
+      {
+        "ParameterKey": "GitHubUser",
+        "ParameterValue": "kenzaelassas"
+      }
+]
